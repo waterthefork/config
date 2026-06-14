@@ -41,7 +41,7 @@ Without this step, the script may not work correctly.
 Run the script manually:
 
 ```bash
-~/unmute_headphone.sh
+~/scripts/unmute_headphone.sh
 ```
 
 If audio doesnt works, try restart.
