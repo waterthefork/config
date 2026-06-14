@@ -5,8 +5,8 @@ Configuration and utility scripts for fixing headphone audio on Fedora GNOME.
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone git@github.com:waterthefork/config.git
+cd config
 ```
 
 ## Move Script
@@ -15,7 +15,7 @@ Copy the script to your home directory:
 
 ```bash
 cp -r scripts ~/
-chmod +x ~/headphone-fix.sh
+chmod +x ~/scripts/unmute_headphone.sh
 ```
 
 ## Requirements
